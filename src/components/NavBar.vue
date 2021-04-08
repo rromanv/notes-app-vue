@@ -3,7 +3,7 @@
     <div
       class="flex place-items-center space-x-2 text-coolGray-100 text-3xl container mx-auto"
     >
-      <mdi-account />
+      <ph:notepad-duotone />
       <p class="font-thin tracking-wider">
         Notes<span class="font-bold">App</span>
       </p>
